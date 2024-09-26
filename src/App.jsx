@@ -1,6 +1,7 @@
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
-import Body from "./components/pages/Body";
+import Body from "./pages/Body";
+import "./App.css"
 export default function App() {
   return (
 <>
