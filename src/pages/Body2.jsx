@@ -25,7 +25,6 @@ function Body2(){
     marginTop:"80px",
     marginBottom:"200px"
 }} >
-
 <br/>
 <div style={{marginTop:"15px"}}><img src="/src/assets/stomach.svg" width="50px"height ="50px" /></div>
 <h3>Gastroenterologist</h3>

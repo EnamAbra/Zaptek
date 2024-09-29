@@ -5,7 +5,18 @@ function Body(){
 
 
 <div>
-   
+    <marquee>
+    <div style={{display:"flex",justifyContent:"space-between"}}>
+   <img src="/src/assets/cloud.svg"/>
+   <img src="/src/assets/clues.svg"/>
+   <img src="/src/assets/try.svg"/>
+   <img src="/src/assets/trace.svg"/>
+   <img src="/src/assets/volume.svg"/>
+</div>
+
+</marquee>
+
+
     <div style={{ paddingLeft:"500px", fontSize:"60px"}}>
 <h1>Discover Our Comprehensive  </h1>
 <h1 style={{paddingLeft:"165px"}}>        Range of     Services:</h1>

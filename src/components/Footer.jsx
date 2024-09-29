@@ -1,6 +1,6 @@
 function Footer(){
 return(
-<div style={{marginTop:"200px",backgroundColor:"#4CAF4F",marginBottom:"600px",borde}}>
+<div style={{marginTop:"200px",backgroundColor:"#4CAF4F",marginBottom:"600px"}}>
 <div style={{paddingLeft:"150px",paddingRight:"340px", color:"white"}}>  <img src="/src/assets/healthsquare.svg"/></div>
       
   <div style={{display:"flex"}}>    

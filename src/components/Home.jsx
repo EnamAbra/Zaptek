@@ -1,6 +1,6 @@
 function Home(){
 return(
-<div>s
+<div>
 <div style={{ position:"absolute",paddingLeft:"250px"
 
 
@@ -38,8 +38,6 @@ return(
 </div>
 </div>
 );
-
-
 
 
 }
