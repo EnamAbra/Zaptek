@@ -2,7 +2,7 @@ function Body3(){
     return(
 <div style={{display:"flex"}}>
 <div style={{marginLeft:"190px" ,marginRight:"50px"}} >
-    <img src="/src/assets/body2.jpg"  class="position-right"  width="750" height="750"  />
+    <img src="/body2.jpg"  class="position-right"  width="750" height="750"  />
     
 </div>
 <div style={{marginBottom:"200px"}}>

@@ -13,7 +13,7 @@ function Page5(){
 
 </div>
 <div style={{marginLeft:"100px",marginRight: "100px",marginBotton:"15px"}}>
-<img src="/src/assets/page5.jpg"/>
+<img src="/page5.jpg"/>
 </div>
 
 <div style={{marginTop:"50px", display:"flex", marginBottom:"200px"}}>

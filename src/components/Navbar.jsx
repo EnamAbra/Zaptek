@@ -14,7 +14,7 @@ function Navbar(){
 
 </div>
 <div style={{ display: "flex",paddingTop:"15px" }}>
- <div style={{paddingLeft:"150px",paddingRight:"340px"}}>  <img src="/src/assets/healthsquare.svg"/></div>
+ <div style={{paddingLeft:"150px",paddingRight:"340px"}}>  <img src="/healthsquare.svg"/></div>
       
         <option style={{ paddingRight: "30px" }}>Home</option>
         <option style={{ paddingRight: "30px" }}>About</option>

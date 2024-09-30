@@ -6,7 +6,7 @@ return(
 
 }} >
     
-    <img src="/src/assets/homepage.jpg" class="position-right"  width="1190" height="1190" />
+    <img src="/public/homepage.jpg" class="position-right"  width="1190" height="1190" />
 
 </div>
 <div style={{position:"relative",class:"position-top",paddingRight:"1500px"}}>

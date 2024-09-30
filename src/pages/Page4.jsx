@@ -52,7 +52,7 @@ style={{
 
 <div style={{marginLeft:"80px" ,marginRight:"190px"}}>
 
-<img src="/src/assets/body2 image 2.jpg"  class="position-right"  width="750" height="750"/>
+<img src="/body2 image 2.jpg"  class="position-right"  width="750" height="750"/>
 
 </div>
 

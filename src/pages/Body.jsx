@@ -7,11 +7,11 @@ function Body(){
 <div>
     <marquee>
     <div style={{display:"flex",justifyContent:"space-between"}}>
-   <img src="/src/assets/cloud.svg"/>
-   <img src="/src/assets/clues.svg"/>
-   <img src="/src/assets/try.svg"/>
-   <img src="/src/assets/trace.svg"/>
-   <img src="/src/assets/volume.svg"/>
+   <img src="/cloud.svg"/>
+   <img src="/clues.svg"/>
+   <img src="/try.svg"/>
+   <img src="/trace.svg"/>
+   <img src="/volume.svg"/>
 </div>
 
 </marquee>
@@ -49,7 +49,7 @@ function Body(){
    
 }} >
 
-<div style={{marginTop:"15px"}}><img src="/src/assets/tooth.svg" width="50px"height ="50px" /></div>
+<div style={{marginTop:"15px"}}><img src="/tooth.svg" width="50px"height ="50px" /></div>
 <br/>
 <h3>Orthodontics</h3>
 <p  style={{marginTop:"60px"}}>Lorem ipsum dolor sit amet,consectetur<br/> adipiscing elit. Nonmauris nulla tincidunt <br/>appetfermentum amet sit.</p>

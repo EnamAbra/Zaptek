@@ -1,0 +1,20 @@
+.menu-link-wrapper {
+    grid-column-gap: 42px;
+    grid-row-gap: 42px;
+    display: flex;
+}
+.footer-divider {
+    border-top: 1px solid #ffffff45;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 60px;
+    padding-top: 40px;
+    display: flex}
+    .display{
+        display: flex;
+        padding-right: 60px;
+    }
+    .home-to-blog{
+        padding-right: 60px;
+    }

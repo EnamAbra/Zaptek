@@ -1,5 +1,5 @@
 
-
+import "./page7style.css";
 function Page7(){
 
 
@@ -10,7 +10,7 @@ return(
 <div style={{display:"flex"}}>
   
   <div style={{marginTop:"200px"}}>
-    <img src="/src/assets/page6.jpg" class="position-right"  width="650" height="750" />
+    <img src="/page6.jpg" class="position-right"  width="650" height="750" />
 
    
 <h1 style={{color:"#ffffff"}}>555-0198    123 Maple Street, Spriengfield, IL 62701</h1>
@@ -25,31 +25,27 @@ return(
 <h4 style={{paddingLeft:"100px"}}>Solutions for Your Health and Well-being</h4>
 
 </div>
+<div className="textform"> 
+    <form className="formholder">
+    <div className="textfield">
+  <input  
+  className="emailfield"
+    type="email"
+    placeholder="Your Email"
+    required/>
 
-<div style={{   borderColor:"#4CAF4F", }} >
-    <div   style={{paddingLeft:"100px"}}>
-<textarea placeholder="email"  rows={3} cols={65}/>
+<textarea className="MessageHolder"
+     placeholder="Your Message"
+     required
+></textarea>
+  
     </div>
-    <div style={{paddingLeft:"100px"}} >
-<textarea placeholder="Your  Message" rows={20} cols={66}  />
-<button style={{
-       color: "white",
-       border: "none",
-       backgroundColor: "#4CAF4F",
-       Type: "Primary",
-       Size: "Medium",
-       State: "Default",
-       Icon: "Right",
-       width: "500px",
-       height: "50px",
-       padding: "9px 22px 9px 22px",
-       
-       gap: "10px",
-       
-       marginBottom: "10px",
-}}>Submit</button>
-</div>
-</div>
+<imput type="submit" value="Submit" className="submitbutton"/>
+    </form>
+
+    </div>
+
+
 </div>
 </div>
 </div>

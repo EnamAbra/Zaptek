@@ -12,7 +12,7 @@ function Body2(){
 
 }} >
 
-<div style={{marginTop:"15px"}}><img src="/src/assets/lungs.svg" width="50px"height ="50px" /></div>
+<div style={{marginTop:"15px"}}><img src="/lungs.svg" width="50px"height ="50px" /></div>
 <h3>Pulmonologist</h3><br/>
 <p  style={{marginTop:"60px"}}>Lorem ipsum dolor sit amet,consectetur<br/> adipiscing elit. Nonmauris nulla tincidunt <br/>appetfermentum amet sit.</p>
 </div>
@@ -26,7 +26,7 @@ function Body2(){
     marginBottom:"200px"
 }} >
 <br/>
-<div style={{marginTop:"15px"}}><img src="/src/assets/stomach.svg" width="50px"height ="50px" /></div>
+<div style={{marginTop:"15px"}}><img src="/stomach.svg" width="50px"height ="50px" /></div>
 <h3>Gastroenterologist</h3>
 <p  style={{marginTop:"60px"}}>Lorem ipsum dolor sit amet,consectetur<br/> adipiscing elit. Nonmauris nulla tincidunt <br/>appetfermentum amet sit.</p>
 
@@ -56,7 +56,7 @@ function Body2(){
 }} >
     
 
-<div style={{marginTop:"15px"}}><img src="/src/assets/heart.svg" width="50px"height ="50px" /></div>
+<div style={{marginTop:"15px"}}><img src="/heart.svg" width="50px"height ="50px" /></div>
 <h3>Cardiology</h3>
 
 <h5  style={{marginTop:"60px"}}>Lorem ipsum dolor sit amet,consectetur<br/> adipiscing elit. Nonmauris nulla tincidunt <br/>appetfermentum amet sit.</h5>
