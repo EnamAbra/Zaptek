@@ -6,7 +6,7 @@ function Navbar(){
     display:"flex",
     justifyContent:"space-between",
     padding: "20px",
-    backgroundColor:	 "#4CAF4F"
+    backgroundColor:	 " #0fac73"
 }}>
     
 <div style={{paddingLeft:"150px", color:"#ffffff"}}><h1>555-0198    123 Maple Street, Spriengfield, IL 62701</h1></div>
@@ -39,7 +39,7 @@ function Navbar(){
           style={{
             color: "white",
             border: "none",
-            backgroundColor: "#4CAF4F",
+            backgroundColor: " #0fac73",
             Type: "Primary",
             Size: "Medium",
             State: "Default",

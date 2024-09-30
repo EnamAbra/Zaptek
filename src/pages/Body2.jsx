@@ -33,7 +33,7 @@ function Body2(){
 <button style={{
        color:   "white",
        border: "none",
-       backgroundColor:"#4CAF4F",
+       backgroundColor:" #0fac73",
        Type: "Primary",
        Size: "Large",
        width: "2500px",
@@ -64,7 +64,7 @@ function Body2(){
 <button style={{
        color:   "white",
        border: "none",
-       backgroundColor:"#4CAF4F",
+       backgroundColor:" #0fac73",
        Type: "Primary",
        Size: "Large",
        width: "2500px",

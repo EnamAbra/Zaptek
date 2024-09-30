@@ -10,7 +10,7 @@ return(
 
 </div>
 <div style={{position:"relative",class:"position-top",paddingRight:"1500px"}}>
-<div style={{ backgroundColor: "#4CAF4F",margin:"400px" , width:"670px",height:"500px"}}>
+<div style={{ backgroundColor: " #0fac73",margin:"400px" , width:"670px",height:"500px"}}>
 <h1 style={{paddingLeft:"50px",color:"white" ,fontSize:"80px"}}>Compassionate</h1>
 <h1 style={{paddingLeft:"50px" ,color:"white" ,fontSize:"80px"}}>Care for Every</h1>
 <h1 style={{paddingLeft:"50px" ,color:"white" ,fontSize:"80px"}}>Patient like you</h1>

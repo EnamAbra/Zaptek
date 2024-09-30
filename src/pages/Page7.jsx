@@ -4,51 +4,64 @@ function Page7(){
 
 
 return(
-<div style={{display:"flex"}}>
-
-
-<div style={{display:"flex"}}>
-  
-  <div style={{marginTop:"200px"}}>
-    <img src="/page6.jpg" class="position-right"  width="650" height="750" />
-
-   
-<h1 style={{color:"#ffffff"}}>555-0198    123 Maple Street, Spriengfield, IL 62701</h1>
-<h1 style={{color:"#ffffff"}}>Monday - Saturday: 9 am - 11.30 pm</h1></div>
-
-    <div style={{paddingRight:"100px"}}>
-<b style={{ paddingLeft:"100px", fontSize:"40px"}}>Get in Touch with Us</b> <br/>
-<b style={{paddingLeft:"165px"}}>   We’re Here to Help!</b>
-
-<div  style={{color:"#999999", fontSize:"20px"}}>
-<h4 style={{paddingLeft:"100px"}}>Delivering Exceptional Care and Advanced Medical</h4>
-<h4 style={{paddingLeft:"100px"}}>Solutions for Your Health and Well-being</h4>
-
-</div>
-<div className="textform"> 
-    <form className="formholder">
-    <div className="textfield">
-  <input  
-  className="emailfield"
-    type="email"
-    placeholder="Your Email"
-    required/>
-
-<textarea className="MessageHolder"
-     placeholder="Your Message"
-     required
-></textarea>
-  
+    <>
+    <div className="flex">
+      <div className="p-8">
+        <h3>APPOINTMENT</h3>
+        <h2 style={{fontSize:"38px"}}>
+          <b>Get in Touch with Us</b>
+          <br />
+          <b> We're Here To Help!</b>
+        </h2>
+        <p style={{color:"#999999"}}>
+          Delivering Exceptional Care and Advanced Medical Solutions for Your
+          Health and Well-being
+        </p>
+        <div className="textformholder">
+          <form className="formholder">
+            <div className="textfield">
+              <input
+                className="emailfield"
+                type="email"
+                placeholder="Your Email"
+                required
+              />
+              <textarea
+                className="messageholder"
+                placeholder="Your Message"
+                required
+              ></textarea>
+            </div>
+            <input type="submit" value="Submit" className="submitbutton" />
+          </form>
+        </div>
+      </div>
+      <div>
+        <div className="imageholder">
+          <div className="stickyholder">
+            <img
+              className="max-w-full inline-block align-middle"
+              src="/page6.jpg"
+              alt="nursehandsgirl"
+            />
+            <div className="imagecontent">
+              <div>
+                555-0198
+                <br />
+                123 Maple, Springfield, IL 62701
+              </div>
+              <div>Monday - Saturday: 9 am- 11.30 pm</div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-<imput type="submit" value="Submit" className="submitbutton"/>
-    </form>
-
+    <div class="mainsection">
+      <div class="footcontainer">
+        <div class="footwrapper"></div>
+      </div>
     </div>
-
-
-</div>
-</div>
-</div>
+  </>
 );
 }
 

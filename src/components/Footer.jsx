@@ -3,7 +3,7 @@ import "./Footerstyle.css"
 function Footer(){
 return(
   <div className="footer-wrapper">
-<div style={{marginTop:"200px",backgroundColor:"#4CAF4F"}}>
+<div style={{marginTop:"200px",backgroundColor:" #0fac73"}}>
 <div style={{paddingLeft:"150px",paddingRight:"340px", color:"white"}}>  <img src="/healthsquare.svg"/></div>
       
   <div style={{display:"flex"}}>    

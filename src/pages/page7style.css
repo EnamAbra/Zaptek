@@ -32,18 +32,14 @@
   }
   
   .messageholder {
-    z-index: 1;
-    border: 1px solid var(--button-color);
-    color: var(--heading-text-color);
-    background-color: #fff;
-    border-radius: 0;
-    width: 100%;
-    height: 51px;
-    margin-top: 0;
-    margin-bottom: 0;
-    font-size: 18px;
-    transition: border-color .45s, box-shadow .425s;
-    position: relative;
+    padding: 10px;
+    border: 1px solid;
+    border-color: #0fac73;
+    min-width: 100%;
+    max-width: 100%;
+    height: 300px;
+    min-height: 300px;
+    max-height: 500px;
   }
   
   .submitbutton {
@@ -53,8 +49,67 @@
     justify-content: center;
     align-items: center;
     padding: 11px 36px;
-    font-size: 30px;
+    font-size: 18px;
     font-weight: 400;
     display: flex;
   }
   
+  .imageholder {
+    grid-column-gap: 12px;
+    grid-row-gap: 12px;
+    flex-flow: column;
+    display: flex;
+    position: relative;
+  }
+  
+  .stickyholder {
+    grid-column-gap: 12px;
+    grid-row-gap: 12px;
+    flex-flow: column;
+    display: flex;
+    position: sticky;
+    top: 130px;
+  }
+  
+  .imagecontent {
+    color: #0fac73;
+    justify-content: space-between;
+    font-size: 18px;
+    display: flex;
+  }
+  
+  .mainsection {
+    background-color: #0fac73;
+  }
+  
+  .footcontainer {
+    padding-top: 2em;
+    padding-bottom: 2em;
+    z-index: 2;
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3em 2em;
+    position: relative;
+  }
+  
+  .footwrapper {
+    grid-column-gap: 60px;
+    grid-row-gap: 60px;
+    justify-content: space-between;
+    padding-top: 2em;
+    display: flex;
+  }
+  
+.Appointment{
+    color: white;
+    border: none;
+    background-color: #0fac73;
+    Size: Medium;
+    
+    width: Hug (300px);
+    height: Hug (300px),
+    
+    
+  
+}

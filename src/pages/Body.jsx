@@ -36,7 +36,7 @@ function Body(){
 
 }} >
 
-  <div style={{marginTop:"15px"}}><img src="/src/assets/neurology.svg" width="50px"height ="50px" /></div><br/>
+  <div style={{marginTop:"15px"}}><img src="/neurology.svg" width="50px"height ="50px" /></div><br/>
   <h3>Neurology</h3>
 <p  style={{marginTop:"60px"}}>Lorem ipsum dolor sit amet,consectetur<br/> adipiscing elit. Nonmauris nulla tincidunt <br/>appetfermentum amet sit.</p>
 </div>
@@ -65,7 +65,7 @@ function Body(){
 }} >
     
 
-<div style={{marginTop:"15px"}}><img src="/src/assets/eye.svg" width="50px"height ="50px" /></div>
+<div style={{marginTop:"15px"}}><img src="/eye.svg" width="50px"height ="50px" /></div>
 <h3>Opthalmologists</h3>
 <h5 style={{marginTop:"60px"}}>Lorem ipsum dolor sit amet,consectetur<br/> adipiscing elit. Nonmauris nulla tincidunt <br/>appetfermentum amet sit.</h5>
 

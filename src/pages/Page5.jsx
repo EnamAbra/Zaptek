@@ -25,7 +25,7 @@ function Page5(){
     
 
 }} > 
-<b style={{ marginLeft:"50px", paddingLeft:"0.20%" ,fontSize:"100px",color:"#4CAF4F"}}>2B+</b>
+<b style={{ marginLeft:"50px", paddingLeft:"0.20%" ,fontSize:"100px",color:" #0fac73"}}>2B+</b>
 
 </div>
 <div style={{width:"300px",
@@ -36,7 +36,7 @@ function Page5(){
 
 
 }} > 
-<b style={{ marginLeft:"50px", paddingLeft:"0.20%" ,fontSize:"100px",color:"#4CAF4F"}}>2008</b>
+<b style={{ marginLeft:"50px", paddingLeft:"0.20%" ,fontSize:"100px",color:" #0fac73"}}>2008</b>
 
 </div >
 <div style={{width:"300px",
@@ -46,7 +46,7 @@ function Page5(){
     marginLeft:"50px"
 }} > 
 
-<b style={{ marginLeft:"50px", paddingLeft:"0.20%" ,fontSize:"100px",color:"#4CAF4F"}}>20+</b>
+<b style={{ marginLeft:"50px", paddingLeft:"0.20%" ,fontSize:"100px",color:" #0fac73"}}>20+</b>
 </div>
 
 

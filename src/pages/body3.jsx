@@ -9,7 +9,7 @@ function Body3(){
 <button style={{
     color: "white",
     border: "none",
-    backgroundColor: "#4CAF4F",
+    backgroundColor: " #0fac73",
     Type: "Primary",
     Size: "Medium",
     State: "Default",
@@ -32,7 +32,7 @@ function Body3(){
 style={{
     color: "white",
     border: "none",
-    backgroundColor: "#4CAF4F",
+    backgroundColor: " #0fac73",
     Type: "Primary",
     Size: "Medium",
     State: "Default",
