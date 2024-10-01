@@ -19,7 +19,7 @@ return(
 <p style={{paddingLeft:"50px" ,color:"white" }}>Advanced Medical Solutions for Every Patient's</p>
 
 <button style={{
-       color: "#4CAF4F",
+       color: "#0fac73",
        border: "none",
        backgroundColor: "white",
        Type: "Primary",
